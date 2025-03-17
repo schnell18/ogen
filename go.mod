@@ -2,6 +2,8 @@ module github.com/ogen-go/ogen
 
 go 1.24.0
 
+toolchain go1.24.1
+
 require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dlclark/regexp2 v1.11.5
